@@ -1,17 +1,19 @@
 ## Hi there 👋
 I'm Ambatipudi V G S D Sai Kalyan
 
-Aspiring Software Developer from India.
+Aspiring Data Analyst from India.
 
 ## Skills
 - Java
 - Python
-- C / C++
+- Power BI
+- SQL
+- MS Excel
 - Problem Solving
 
 ## Currently Learning
-- Java Full Stack Development
-- Data Structures & Algorithms
+- Power BI
+- MS Excel
 
 
 ## Projects
@@ -19,7 +21,7 @@ Aspiring Software Developer from India.
 - Mileage Prediction Using Regression Analysis
 
 ## Goals
-- Become a Software Engineer
+- Become a Data Analyst
 - Build real world projects
 
 <!--
